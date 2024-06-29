@@ -925,7 +925,9 @@ a.check-product {
 
 .tags-list {
     margin-top: 10px;
-    padding-left: 40px;
+    padding-left: 1px;
+    position: relative; 
+    top: -100px;
 
 }
 
@@ -948,7 +950,7 @@ a.check-product {
 }
 
 .tags-list a:hover {
-    background-color: transparent;
+    background-color: #db091e;
 }
 
 .tags-list a.active:hover {

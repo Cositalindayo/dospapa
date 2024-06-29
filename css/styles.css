@@ -268,4 +268,13 @@ img.emoji {
 
 /*End Botones next*/
 
+.blurry video {
+  filter: blur(30px); /* Ajusta el valor del blur según tus necesidades */
+  
+}
+
+
+.blurrydescrition {
+  filter: blur(px); /* Ajusta el valor del blur según tus necesidades */
+}
 
