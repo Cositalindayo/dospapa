@@ -11,17 +11,6 @@
     { "src": "/js/script.js", "dest": "/js/script.js" },
     { "src": "/js/scriptv2.js", "dest": "/js/scriptv2.js" },
     { "src": "/page", "dest": "/page.html" },
-    { "src": "/(.*)", "dest": "/$1.html" }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Set-Cookie",
-          "value": "myCookie=value; SameSite=None; Secure"
-        }
-      ]
-    }
+    { "src": "/(.*)", "dest": "/$1.html" }  
   ]
 }
