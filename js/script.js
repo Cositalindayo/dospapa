@@ -141,17 +141,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.addEventListener("DOMContentLoaded", function () {
     var imagenesAleatorias = [
-        "/img/Screenshot_5.jpg",
         "https://img.goodfon.com/original/2048x2048/9/6c/malena-morgan-model-devushka-6401.jpg",
         "https://i.pinimg.com/564x/02/dc/06/02dc060cb7fa3f106a86769af44ee3dd.jpg",
-        "https://i.pinimg.com/564x/06/ce/71/06ce711727df122dcf8d19601398aaf3.jpg",
         "https://i.pinimg.com/564x/61/08/51/61085143b742c6f9ae0c6114cd72970f.jpg",
-        "https://i.pinimg.com/564x/fa/95/2b/fa952b14103fc088794e85c2e5b83801.jpg",
-        "https://i.pinimg.com/736x/a3/30/f4/a330f413e7c3f1ccb226ba651a57cc9d.jpg",
-        "https://i.pinimg.com/736x/25/49/19/254919a4886d98c956c3f39df0ffff9b.jpg",
-        "https://i.pinimg.com/564x/24/62/15/24621573b3191406415ebb4df1e311a0.jpg",
-        "https://i.pinimg.com/564x/fb/6c/08/fb6c0817758cf418e32273aef7d6dde7.jpg",
-        "https://i.pinimg.com/564x/e5/93/50/e593500025e0fb40deaabb7484fa6fa8.jpg",
     ];
 
     for (var i = 1; i <= 5; i++) {
